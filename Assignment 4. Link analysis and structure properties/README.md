@@ -1,0 +1,1 @@
+Assignment 4. Link analysis and structure properties
