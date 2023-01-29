@@ -1,0 +1,1 @@
+Assignment 2. Generative network models
